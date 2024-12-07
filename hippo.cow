@@ -1,15 +1,13 @@
-##
-## Hippo (version 1)
-## https://ascii.co.uk/art/hippo
-##
+# hippo
+#
+# based on http://ascii.co.uk/art/hippo
 $the_cow = <<EOC;
-  $thoughts
-   $thoughts
+         $thoughts
+          $thoughts
      ,_,
     ($eye_$eye)_----------_
    (_____)           |~'
-   `-"$tongue"-'           /
+   `-"-"-'           /
      `|__|~-----~|__|
-
-  spb
 EOC
+
